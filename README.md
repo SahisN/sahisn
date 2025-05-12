@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahis Neupane</h1>
-<h3 align="center">Software engineer with hands-on experience in DevOps and frontend development. I worked as a Software Engineer Intern at Lockheed Martin, where I supported multiple on-site teams by maintaining and troubleshooting critical internal applications. I also provided technical support to employees, helping resolve account and application issues.</h3>
+<h3 align="center">Software engineer with hands-on experience in DevOps and fullstack development. I worked as a Software Engineer Intern at Lockheed Martin, where I supported multiple on-site teams by maintaining and troubleshooting critical internal applications. I also provided technical support to employees, helping resolve account and application issues.</h3>
 
 - 🔭 I’m currently contributing to [Splitsheets, a collaborative project focused on music split sheet management.](https://tunesplit.com/login)
 
