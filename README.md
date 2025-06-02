@@ -9,7 +9,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KVINg-452P7ftEBwTJ7qUOSbrhbrNS1J/view?usp=sharing](https://drive.google.com/file/d/1KVINg-452P7ftEBwTJ7qUOSbrhbrNS1J/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
