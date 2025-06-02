@@ -7,7 +7,7 @@
 
 - 📫 Reach out to me via email **sahisneupane23@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KVINg-452P7ftEBwTJ7qUOSbrhbrNS1J/view?usp=sharing](https://drive.google.com/file/d/1KVINg-452P7ftEBwTJ7qUOSbrhbrNS1J/view?usp=sharing)
+- 📄 Know about my experiences [Website Portfolio](https://sahisn.github.io/sahis-website-portfolio/)
 
 <p align="left">
 </p>
