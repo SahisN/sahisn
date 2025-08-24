@@ -2,8 +2,6 @@
 <h3 align="center">Software engineer with hands-on experience in DevOps and fullstack development. I worked as a Software Engineer Intern at Lockheed Martin, where I supported multiple on-site teams by maintaining and troubleshooting critical internal applications. I also provided technical support to employees, helping resolve account and application issues.</h3>
 
 
-- 📫 Reach out to me via email **sahisneupane23@gmail.com**
-
 <p align="left">
 </p>
 
