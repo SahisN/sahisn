@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahis Neupane</h1>
-<h3 align="center">Software engineer with hands-on experience in DevOps and fullstack development. I worked as a Software Engineer Intern at Lockheed Martin, where I supported multiple on-site teams by maintaining and troubleshooting critical internal applications. I also provided technical support to employees, helping resolve account and application issues.</h3>
+<h3 align="center">Software engineer with a passion for DIY projects and practical problem-solving. I enjoy combining hardware and software to build custom devices for real-world use. I am currently getting started with robotics, with a strong interest in drones and autonomous systems. I also work on web development projects, focusing on building useful web apps and automations that solve problems or improve everyday workflows..</h3>
 
 
 <p align="left">
