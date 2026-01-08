@@ -11,9 +11,6 @@
 
 </p> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahisn&show_icons=true&locale=en&layout=compact" alt="sahisn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahisn&" alt="sahisn" /></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahisn/sahisn/output/pacman-contribution-graph-dark.svg">
